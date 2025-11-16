@@ -1,0 +1,43 @@
+{
+  "name": "nexus-banking-suite",
+  "version": "1.0.0",
+  "description": "Enterprise-grade financial intelligence dashboard for high-velocity transaction monitoring.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "vite build",
+    "start": "node dist/index.js",
+    "dev": "vite",
+    "preview": "vite preview",
+    "eda": "npx ts-node eda/eda.ts"
+  },
+  "keywords": [
+    "fintech",
+    "analytics",
+    "react",
+    "typescript"
+  ],
+  "author": "Elias Gichuru",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^19.1.15",
+    "@types/react-dom": "^19.1.9",
+    "lucide-react": "^0.460.0",
+    "papaparse": "^5.5.3",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "recharts": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/papaparse": "^5.3.16",
+    "@types/node": "^22.5.4",
+    "@vitejs/plugin-react": "^5.0.4",
+    "typescript": "^5.5.4",
+    "vite": "^7.1.7",
+    "tsx": "^4.20.6",
+    "ts-node": "^10.9.2"
+  },
+  "type": "module"
+}
