@@ -2,7 +2,7 @@
 
 [Live demo](https://banking-fraud-analytics-suite-gb5j.vercel.app)
 
-![Dashboard preview](/public/Screenshot%20(118).PNG)
+![Dashboard preview](/public/Demo_image.PNG)
 
 A specialized financial intelligence platform designed to ingest high-volume transaction data, detect fraud anomalies in real-time, and calculate Customer Lifetime Value (LTV).
 
