@@ -1,6 +1,6 @@
 # Banking Analytics Suite
 
-[Live demo](https://banking-fraud-analytics-suite-gb5j.vercel.app)
+[Live demo can be found here https://banking-fraud-analytics-suite-gb5j.vercel.app](https://banking-fraud-analytics-suite-gb5j.vercel.app)
 
 ![Dashboard preview](/public/Demo_image.PNG)
 
