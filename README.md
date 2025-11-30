@@ -1,5 +1,9 @@
 # Banking Analytics Suite
 
+[Live demo](https://banking-fraud-analytics-suite-gb5j.vercel.app)
+
+![Dashboard preview](/public/Screenshot%20(118).PNG)
+
 A specialized financial intelligence platform designed to ingest high-volume transaction data, detect fraud anomalies in real-time, and calculate Customer Lifetime Value (LTV).
 
 This project simulates a modern FinTech dashboard environment, featuring a robust ETL (Extract, Transform, Load) pipeline built entirely in TypeScript, coupled with a reactive frontend for immediate business insight.
